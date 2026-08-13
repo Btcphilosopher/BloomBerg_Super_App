@@ -1,0 +1,6 @@
+{
+  "name": "Bloomberg Financial Super App",
+  "description": "A next-generation Bloomberg Terminal financial super app with real-time markets, news, security analysis, advanced charts, portfolio risk analytics, economic indicators, fixed income, FX, commodities, alerts, AI research assistant, and workspace customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
